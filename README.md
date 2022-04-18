@@ -3,7 +3,7 @@
 Strapi поставляется с полнофункциональным [интерфейсом командной строки](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI), который позволяет создавать шаблоны и управлять проектом за считанные секунды.
 
 <img alt="strapi-image" src="./public/images/strapi.jpg"/>
-API Strap
+API Strapi
 
 ### `develop`
 
